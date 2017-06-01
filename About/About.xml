@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Cheap Plastic and Plasteel</name>
+	<author>Sixdd</author>
+	<targetVersion>0.17.1546</targetVersion>
+	<description>
+This is an altered version of the original mod 'Make Plastic and Plasteel'.
+
+It is now possible to create Plasteel by combining Plastic and Steel at an Electric Smelter.
+
+Items added:
+Starch
+Plastic (Can be purchased and used as construction material)
+
+Task Added in Electric Smelter:
+Make Starch -> 5 Corn = 1 Starch
+Make Plastic -> 1 Starch = 1 Plastic
+Make Plasteel -> 1 Plastic + 1 Steel = 1 Plasteel
+
+</description>
+</ModMetaData>
