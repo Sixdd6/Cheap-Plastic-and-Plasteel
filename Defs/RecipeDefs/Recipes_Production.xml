@@ -35,7 +35,7 @@
             <li>Plastic</li>
           </thingDefs>
         </filter>
-        <count>1</count>
+        <count>5</count>
       </li>
     </ingredients>
     <products>
@@ -105,7 +105,8 @@
     </skillRequirements>
     <workSkill>Crafting</workSkill>
     <recipeUsers>
-      <li>ElectricSmelter</li>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
     </recipeUsers>
     <ingredients>
       <li>
@@ -161,7 +162,7 @@
             <li>Plastic</li>
           </thingDefs>
         </filter>
-        <count>10</count>
+        <count>50</count>
       </li>
     </ingredients>
     <products>
@@ -231,7 +232,8 @@
     </skillRequirements>
     <workSkill>Crafting</workSkill>
     <recipeUsers>
-      <li>ElectricSmelter</li>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
     </recipeUsers>
     <ingredients>
       <li>

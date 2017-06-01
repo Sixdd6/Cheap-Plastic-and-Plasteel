@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Cheap Plastic and Plasteel</name>
+	<name>Organic Plasteel</name>
 	<author>Sixdd</author>
 	<targetVersion>0.17.1546</targetVersion>
 	<description>
@@ -13,9 +13,9 @@ Starch
 Plastic (Can be purchased and used as construction material)
 
 Task Added in Electric Smelter:
-Make Starch -> 5 Corn = 1 Starch
+Make Starch -> 5 Potatoes = 1 Starch
 Make Plastic -> 1 Starch = 1 Plastic
-Make Plasteel -> 1 Plastic + 1 Steel = 1 Plasteel
+Make Plasteel -> 5 Plastic + 1 Steel = 1 Plasteel
 
 </description>
 </ModMetaData>
