@@ -2,9 +2,9 @@
 <ModMetaData>
 	<name>Organic Plasteel</name>
 	<author>Sixdd</author>
-	<targetVersion>0.17.1546</targetVersion>
-	<description>
-It is now possible to create Plasteel by combining Plastic and Steel at an Electric Smelter.
+	<url>https://github.com/Sixdd6/Organic-Plasteel</url>
+	<targetVersion>0.17.1557</targetVersion>
+	<description>It is now possible to create Plasteel by combining Plastic and Steel at an Electric Smelter.
 
 Items added:
 Starch - Made at a stove or electric stove
@@ -15,5 +15,5 @@ Make Starch -> 5 Potatoes = 1 Starch
 Make Plastic -> 1 Starch = 1 Plastic
 Make Plasteel -> 5 Plastic + 1 Steel = 1 Plasteel
 
-</description>
+Mod Version: 0.17.1.1</description>
 </ModMetaData>
