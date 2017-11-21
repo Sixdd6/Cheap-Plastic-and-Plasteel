@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Resources>
-
+<Defs>
 
   <ThingDef Name="PlasticResourceBase" Abstract="True">
     <thingClass>ThingWithComps</thingClass>
@@ -72,12 +71,12 @@
     <thingCategories>
   	  <li>Manufactured</li>
     </thingCategories>
-	<drawGUIOverlay>true</drawGUIOverlay>
+    <drawGUIOverlay>true</drawGUIOverlay>
     <tradeTags>
       <li>Exotic</li>
     </tradeTags>
   </ThingDef>
-  
+
   <ThingDef ParentName="PlasticResourceBase">
     <defName>Starch</defName>
     <label>Starch</label>
@@ -87,7 +86,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <resourceReadoutPriority>Middle</resourceReadoutPriority>
-	<soundInteract>Wood_Drop</soundInteract>
+    <soundInteract>Wood_Drop</soundInteract>
     <soundDrop>Wood_Drop</soundDrop>
     <stackLimit>75</stackLimit>
     <useHitPoints>true</useHitPoints>
@@ -98,10 +97,10 @@
     <thingCategories>
       <li>Manufactured</li>
     </thingCategories>
-	<drawGUIOverlay>true</drawGUIOverlay>
+    <drawGUIOverlay>true</drawGUIOverlay>
     <tradeTags>
       <li>Exotic</li>
     </tradeTags>
   </ThingDef>
-  
-</Resources>
+
+</Defs>

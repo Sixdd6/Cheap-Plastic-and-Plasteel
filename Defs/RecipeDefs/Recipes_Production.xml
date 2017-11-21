@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <RecipeDefs>
-  
+
   <RecipeDef>
     <defName>MakePlasteel</defName>
     <label>Make Plasteel</label>
     <description>Combine plastic with steel to make plasteel.</description>
     <jobString>Making plasteel.</jobString>
     <workAmount>75</workAmount>
-	<workSpeedStat>SmithingSpeed</workSpeedStat>
-	<effectWorking>Cook</effectWorking>
-	<soundWorking>Recipe_Machining</soundWorking>
-	<skillRequirements>
+    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <skillRequirements>
       <li>
         <skill>Crafting</skill>
         <minLevel>10</minLevel>
@@ -48,17 +48,17 @@
       </thingDefs>
     </fixedIngredientFilter>
   </RecipeDef>
-  
+
   <RecipeDef>
     <defName>MakePlastic</defName>
     <label>Make Plastic</label>
     <description>Converts Starch to plastic.</description>
     <jobString>Making plastic.</jobString>
     <workAmount>75</workAmount>
-	<workSpeedStat>SmithingSpeed</workSpeedStat>
-	<effectWorking>Cook</effectWorking>
-	<soundWorking>Recipe_Machining</soundWorking>
-	<skillRequirements>
+    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <skillRequirements>
       <li>
         <skill>Crafting</skill>
         <minLevel>8</minLevel>
@@ -88,16 +88,16 @@
     </fixedIngredientFilter>
   </RecipeDef>
 
-<RecipeDef>
+  <RecipeDef>
     <defName>MakeStarch</defName>
     <label>Make Starch</label>
     <description>Converts Corn to Starch.</description>
     <jobString>Making starch.</jobString>
     <workAmount>75</workAmount>
-	<workSpeedStat>SmithingSpeed</workSpeedStat>
-	<effectWorking>Cook</effectWorking>
-	<soundWorking>Recipe_Machining</soundWorking>
-	<skillRequirements>
+    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <skillRequirements>
       <li>
         <skill>Crafting</skill>
         <minLevel>10</minLevel>
@@ -130,16 +130,16 @@
     </fixedIngredientFilter>
   </RecipeDef>
 
-<RecipeDef>
+  <RecipeDef>
     <defName>MakePlasteel10</defName>
     <label>Make Plasteel 10x</label>
     <description>Combine plastic with steel to make plasteel.</description>
     <jobString>Making plasteel.</jobString>
     <workAmount>150</workAmount>
-	<workSpeedStat>SmithingSpeed</workSpeedStat>
-	<effectWorking>Cook</effectWorking>
-	<soundWorking>Recipe_Machining</soundWorking>
-	<skillRequirements>
+    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <skillRequirements>
       <li>
         <skill>Crafting</skill>
         <minLevel>10</minLevel>
@@ -177,17 +177,17 @@
       </thingDefs>
     </fixedIngredientFilter>
   </RecipeDef>
-  
+
   <RecipeDef>
     <defName>MakePlastic10</defName>
     <label>Make Plastic 10x</label>
     <description>Converts the Starch to plastic.</description>
     <jobString>Making plastic.</jobString>
     <workAmount>150</workAmount>
-	<workSpeedStat>SmithingSpeed</workSpeedStat>
-	<effectWorking>Cook</effectWorking>
-	<soundWorking>Recipe_Machining</soundWorking>
-	<skillRequirements>
+    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <skillRequirements>
       <li>
         <skill>Crafting</skill>
         <minLevel>8</minLevel>
@@ -217,16 +217,16 @@
     </fixedIngredientFilter>
   </RecipeDef>
 
-<RecipeDef>
+  <RecipeDef>
     <defName>MakeStarch10</defName>
     <label>Make Starch 10x</label>
     <description>Converts the Corn to Starch.</description>
     <jobString>Making starch.</jobString>
     <workAmount>150</workAmount>
-	<workSpeedStat>SmithingSpeed</workSpeedStat>
-	<effectWorking>Cook</effectWorking>
-	<soundWorking>Recipe_Machining</soundWorking>
-	<skillRequirements>
+    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <skillRequirements>
       <li>
         <skill>Crafting</skill>
         <minLevel>8</minLevel>
@@ -257,6 +257,6 @@
         <li>RawCorn</li>
       </thingDefs>
     </fixedIngredientFilter>
-  </RecipeDef>  
-  
+  </RecipeDef>
+
   </RecipeDefs>
