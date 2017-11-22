@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<RecipeDefs>
+<Defs>
 
   <RecipeDef>
     <defName>MakePlasteel</defName>
     <label>Make Plasteel</label>
     <description>Combine plastic with steel to make plasteel.</description>
     <jobString>Making plasteel.</jobString>
-    <workAmount>75</workAmount>
+    <workAmount>60</workAmount>
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
@@ -54,7 +54,7 @@
     <label>Make Plastic</label>
     <description>Converts Starch to plastic.</description>
     <jobString>Making plastic.</jobString>
-    <workAmount>75</workAmount>
+    <workAmount>60</workAmount>
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
@@ -75,7 +75,7 @@
             <li>Starch</li>
           </thingDefs>
         </filter>
-        <count>1</count>
+        <count>5</count>
       </li>
     </ingredients>
     <products>
@@ -93,13 +93,13 @@
     <label>Make Starch</label>
     <description>Converts Corn to Starch.</description>
     <jobString>Making starch.</jobString>
-    <workAmount>75</workAmount>
+    <workAmount>60</workAmount>
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <skillRequirements>
       <li>
-        <skill>Crafting</skill>
+        <skill>Cooking</skill>
         <minLevel>10</minLevel>
       </li>
     </skillRequirements>
@@ -135,7 +135,7 @@
     <label>Make Plasteel 10x</label>
     <description>Combine plastic with steel to make plasteel.</description>
     <jobString>Making plasteel.</jobString>
-    <workAmount>150</workAmount>
+    <workAmount>420</workAmount>
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
@@ -183,7 +183,7 @@
     <label>Make Plastic 10x</label>
     <description>Converts the Starch to plastic.</description>
     <jobString>Making plastic.</jobString>
-    <workAmount>150</workAmount>
+    <workAmount>420</workAmount>
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
@@ -204,7 +204,7 @@
             <li>Starch</li>
           </thingDefs>
         </filter>
-        <count>10</count>
+        <count>50</count>
       </li>
     </ingredients>
     <products>
@@ -222,13 +222,13 @@
     <label>Make Starch 10x</label>
     <description>Converts the Corn to Starch.</description>
     <jobString>Making starch.</jobString>
-    <workAmount>150</workAmount>
+    <workAmount>420</workAmount>
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <skillRequirements>
       <li>
-        <skill>Crafting</skill>
+        <skill>Cooking</skill>
         <minLevel>8</minLevel>
       </li>
     </skillRequirements>
@@ -259,4 +259,4 @@
     </fixedIngredientFilter>
   </RecipeDef>
 
-  </RecipeDefs>
+  </Defs>
