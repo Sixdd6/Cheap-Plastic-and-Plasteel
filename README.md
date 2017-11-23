@@ -1,3 +1,5 @@
+![status](https://img.shields.io/badge/B18-working-brightgreen.svg)
+
 # Organic Plasteel
 It is now possible to create Plasteel by combining Plastic and Steel at an Electric Smelter.  
 
