@@ -6,7 +6,7 @@
     <label>Make Plasteel</label>
     <description>Combine plastic with steel to make plasteel.</description>
     <jobString>Making plasteel.</jobString>
-    <workAmount>60</workAmount>
+    <workAmount>420</workAmount>
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
@@ -51,7 +51,7 @@
     <label>Make Plastic</label>
     <description>Converts starch to plastic.</description>
     <jobString>Making plastic.</jobString>
-    <workAmount>60</workAmount>
+    <workAmount>420</workAmount>
     <workSpeedStat>SmithingSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>

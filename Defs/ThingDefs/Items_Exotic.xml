@@ -31,8 +31,8 @@
     <stackLimit>75</stackLimit>
     <useHitPoints>true</useHitPoints>
     <statBases>
-      <MarketValue>1</MarketValue>
-      <MaxHitPoints>100</MaxHitPoints>
+      <MarketValue>0.02</MarketValue>
+      <MaxHitPoints>30</MaxHitPoints>
       <Flammability>1.0</Flammability>
       <DeteriorationRate>2</DeteriorationRate>
       <SharpDamageMultiplier>0.3</SharpDamageMultiplier>
@@ -82,7 +82,7 @@
     <stackLimit>75</stackLimit>
     <useHitPoints>true</useHitPoints>
     <statBases>
-      <MarketValue>3</MarketValue>
+      <MarketValue>0.06</MarketValue>
       <MaxHitPoints>15</MaxHitPoints>
       <Flammability>1.0</Flammability>
     </statBases>
